@@ -1,4 +1,4 @@
-# click and drag to scroll
+# Video speed controller
 
 ## Day 25 Of 30 days of JS
 
